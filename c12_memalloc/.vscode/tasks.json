@@ -14,7 +14,7 @@
 				"-pedantic",
 				"${file}",
 				"-o",
-				"${fileDirname}/${fileBasenameNoExtension}"
+				"${workspaceFolder}/bin/${fileBasenameNoExtension}"
 			],
 			"options": {
 				"cwd": "${fileDirname}"

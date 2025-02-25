@@ -1,0 +1,3 @@
+Hi, this is a file
+man this is a new line
+test
